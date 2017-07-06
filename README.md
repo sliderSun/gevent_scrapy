@@ -1,0 +1,2 @@
+# gevent_scrapy
+gevent写的仿scrapy仅用于研究小型爬虫
